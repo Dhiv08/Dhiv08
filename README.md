@@ -25,7 +25,7 @@
 - 🎓 I'm a CSE Pre-Final year student at **SRM Institute of Science and Technology, Ramapuram**  
 - 🌱 Currently exploring **AI, Machine Learning, and Data Science**
 - 💬 Ask me about anything, I love helping!
-- 📬 Reach me at: **gdhivya.0810@gmail.com**)
+- 📬 Reach me at: **gdhivya.0810@gmail.com**
 - 🌐 Portfolio: [dhivyag-portfolio.netlify.app](https://dhivyag-porfolio.netlify.app)
 
 ---
